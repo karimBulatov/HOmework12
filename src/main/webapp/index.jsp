@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Bulatov Karim</h2>
+<h2>Karim</h2>
 </body>
 </html>
